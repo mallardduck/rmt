@@ -1,4 +1,11 @@
 -------------------------------------------------------------------
+Thu Nov 11 22:01:00 UTC 2021 - Luís Caparroz <lcaparroz@suse.com>
+
+- Version 2.8.0
+- Add command 'rmt-cli clean packages', which remove stale packages no longer
+  referenced in the available metadata files and their database entries.
+
+-------------------------------------------------------------------
 Thu Oct 7 09:01:00 UTC 2021 - Felix Schnizlein <fschnizlein@suse.com>
 
 - Version 2.7.0
